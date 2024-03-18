@@ -12,6 +12,7 @@
 Icon?
 **/Pods/
 **/.symlinks/
+.flutter_export_environment
 profile
 xcuserdata
 **/.generated/
